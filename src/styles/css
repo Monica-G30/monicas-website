@@ -76,7 +76,7 @@ p {
 
 .email-link {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
